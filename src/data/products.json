@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Lentejas",
+        "description": "Sanas",
+        "price": 1500,
+        "stock": 25,
+        "code": "L123",
+        "thumbnail": [],
+        "id": "1747ea8e4b47e46934ba",
+        "img": "https://i.ibb.co/ZWs8k22/lentejas300.png"
+    },
+    {
+        "title": "Yerba mate",
+        "description": "Del norte pa",
+        "price": 3000,
+        "stock": 22,
+        "code": "Y243",
+        "thumbnail": [],
+        "id": "e8d4db4bdedf152c83c2",
+        "img": "https://i.ibb.co/Hr2KdwC/yerba300.png"
+    },
+    {
+        "title": "Azucar",
+        "description": "La sonrisa",
+        "price": 500,
+        "stock": 14,
+        "code": "A433",
+        "thumbnail": [],
+        "id": "ed278bf2d3ebbc8b5af6",
+        "img": "https://i.ibb.co/q7MZP6v/azucar300.png"
+    }
+]
